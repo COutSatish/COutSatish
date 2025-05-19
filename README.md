@@ -1,5 +1,24 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br><br>An advanced Itinerary Planner integrating budget management, real-time tracking, and dynamic user preferences for seamless travel experiences.<br>AI-based projects like face recognition systems and supply chain management systems.<br>👯 I’m looking to collaborate on:<br><br>Projects related to machine learning, computer vision, and automation in workforce management.<br>🤝 I’m looking for help with:<br><br>Building visually appealing front-end interfaces for web applications to enhance user experience.<br>🌱 I’m currently learning:<br><br>Google Cloud Platform to achieve Google Cloud Professional certification.<br>Advanced AI and machine learning techniques for practical problem-solving.<br>💬 Ask me about:<br><br>AI Image Generation, Supply Chain Optimization, and Guidewire Insurance Application Development.<br>⚡ Fun fact:<br><br>I love using tech to simplify everyday tasks—whether it's creating a face recognition system for attendance or managing bakery supplies efficiently!
+🔭 I’m currently working on:<br><br>
+Actively seeking full-time opportunities as a Google Cloud Data Engineer or Cloud AI Engineer.<br>
+Building and optimizing real-time, cloud-native data pipelines using Pub/Sub, Dataflow, BigQuery, and Vertex AI.<br>
+Designing intelligent systems that combine automation, machine learning, and end-to-end data analytics.<br>
+
+👯 I’m looking to collaborate on:<br><br>
+Projects related to cloud data platforms, scalable ML pipelines, MLOps, and AI for business automation.<br>
+
+🤝 I’m looking for help with:<br><br>
+Product design and UI/UX improvements for full-stack applications and dashboards.<br>
+
+🌱 I’m currently learning:<br><br>
+Advanced MLOps and production deployment strategies on GCP (Vertex AI, Cloud Build, Airflow, CI/CD).<br>
+Terraform and Kubernetes for cloud infrastructure automation and scalability.<br>
+
+💬 Ask me about:<br><br>
+Real-time GCP pipelines, predictive fleet analytics, AI Image Generation, and Guidewire ClaimCenter Development.<br>
+
+⚡ Fun fact:<br><br>
+I love using tech to simplify everyday life—from bakery inventory automation to real-time vehicle health monitoring!
 
 
 ## 🌐 Socials:
