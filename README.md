@@ -69,18 +69,18 @@
 ### 📊 GitHub Activity & Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=COutSatish&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=COutSatish&theme=dark&hide_border=false" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=COutSatish&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COutSatish&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COutSatish&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
 </div>
 
 <br>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=COutSatish&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=COutSatish&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" /></a>
 </div>
 
 <br>
@@ -91,5 +91,5 @@
 </div>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=COutSatish&icon=0&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=COutSatish&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
