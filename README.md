@@ -69,7 +69,7 @@
 ### 📊 GitHub Activity & Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=COutSatish&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=COutSatish&theme=dark&hide_border=false&hide=issues,prs,stars&show_icons=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=COutSatish&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
@@ -78,12 +78,6 @@
 
 <br>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=COutSatish&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" /></a>
-</div>
-
-<br>
 
 ### ✍️ Random Dev Quote
 <div align="center">
