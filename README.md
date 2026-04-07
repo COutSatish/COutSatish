@@ -14,7 +14,7 @@
 - 💡 **Key Achievements:** Built scalable microservices and real-time Kafka transaction monitoring platforms at Morgan Stanley & BNY Mellon.
 - 🤝 **I’m looking to collaborate on:** Distributed backend systems, robust API integrations, and scalable cloud migrations.
 - 💬 **Ask me about:** Java performance tuning, Microservice design patterns, scalable data processing, and CI/CD pipelines.
-- 📫 **How to reach me:** [satishs.tech@gmail.com](mailto:satishs.tech@gmail.com) | [+1 (470) 866-1440](tel:+14708661440)
+- 📫 **How to reach me:** [satishs.job@gmail.com](mailto:satishs.job@gmail.com) | [+1 (470) 866-1440](tel:+14708661440)
 
 ---
 
