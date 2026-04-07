@@ -14,7 +14,7 @@
 - 💡 **Key Achievements:** Built scalable microservices and real-time Kafka transaction monitoring platforms at Morgan Stanley & BNY Mellon.
 - 🤝 **I’m looking to collaborate on:** Distributed backend systems, robust API integrations, and scalable cloud migrations.
 - 💬 **Ask me about:** Java performance tuning, Microservice design patterns, scalable data processing, and CI/CD pipelines.
-- 📫 **How to reach me:** [satishs.work@gmail.com](mailto:satishs.work@gmail.com) | [+1 (313) 283-8679](tel:+13132838679)
+- 📫 **How to reach me:** [satishs.tech@gmail.com](mailto:satishs.tech@gmail.com) | [+1 (470) 866-1440](tel:+14708661440)
 
 ---
 
@@ -36,8 +36,8 @@
 
 ### 🌐 Socials:
 <p align="left">
-  <a href="https://linkedin.com/in/satishpyata" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:satishs.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-%23D14836.svg?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/satishpin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:satishs.tech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-%23D14836.svg?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
