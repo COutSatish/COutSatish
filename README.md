@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satish Kumar Pyata</h1>
+<h1 align="center">Hi 👋, I'm Satish Kumar P</h1>
 <h3 align="center">Senior Java Full Stack Developer | Cloud-Native Architect</h3>
 
 <p align="center">
