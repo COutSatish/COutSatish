@@ -18,6 +18,22 @@
 
 ---
 
+### 💼 Professional Experience:
+- **Senior Java Full Stack Developer** @ [Verizon](https://www.verizon.com/) *(Jun 2024 - Present)*
+  - Architected and delivered cloud-native, full-stack telecom platforms on AWS.
+  - Built high-throughput Kafka event-driven pipelines for real-time network event streaming.
+- **Senior Java Full Stack Developer** @ [Bank of America](https://www.bankofamerica.com/) *(Jan 2022 - May 2024)*
+  - Engineered high-throughput RESTful API platform using Java 11, Spring Boot, and Spring Cloud Gateway serving millions of banking users.
+  - Architected distributed transaction management using the Saga pattern and Spring State Machine.
+- **Java Full Stack Developer** @ [Henry Ford Health](https://www.henryford.com/) *(Jan 2020 - Dec 2021)*
+  - Built and enhanced enterprise healthcare platforms, delivering scalable Java microservices.
+- **Software Engineer Intern** @ [Henry Ford Health](https://www.henryford.com/) *(May 2019 - Dec 2019)*
+  - Developed RESTful API endpoints for patient appointment scheduling and medication reminders.
+- **Junior Java Developer** @ Value Momentum (GEICO) *(Jul 2016 - Jul 2018)*
+  - Built and enhanced enterprise insurance web applications using Guidewire PolicyCenter and ClaimCenter.
+
+---
+
 ### 🌐 Socials:
 <p align="left">
   <a href="https://linkedin.com/in/satishpyata" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
