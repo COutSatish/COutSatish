@@ -11,7 +11,7 @@
 - 🚀 **9+ years of experience** delivering cloud-native, high-performance enterprise applications.
 - 🔭 **I’m currently focused on:** Designing scalable microservices, high-throughput RESTful APIs, and event-driven architectures (Kafka) deployed on AWS.
 - 🌱 **My Tech Stack:** Java 8/11/17, Spring Boot, Spring Cloud, AWS (EKS, Lambda, SQS, API Gateway), and modern frontend frameworks (Angular, React).
-- 💡 **Key Achievements:** Orchestrated Saga pattern microservices at Bank of America & designed scalable Kafka architecture serving telecom subscribers at Verizon.
+- 💡 **Key Achievements:** Built scalable microservices and real-time Kafka transaction monitoring platforms at Morgan Stanley & BNY Mellon.
 - 🤝 **I’m looking to collaborate on:** Distributed backend systems, robust API integrations, and scalable cloud migrations.
 - 💬 **Ask me about:** Java performance tuning, Microservice design patterns, scalable data processing, and CI/CD pipelines.
 - 📫 **How to reach me:** [satishs.work@gmail.com](mailto:satishs.work@gmail.com) | [+1 (313) 283-8679](tel:+13132838679)
@@ -19,16 +19,16 @@
 ---
 
 ### 💼 Professional Experience:
-- **Senior Java Full Stack Developer** @ [Verizon](https://www.verizon.com/) *(Jun 2024 - Present)*
-  - Architected and delivered cloud-native, full-stack telecom platforms on AWS.
-  - Built high-throughput Kafka event-driven pipelines for real-time network event streaming.
-- **Senior Java Full Stack Developer** @ [Bank of America](https://www.bankofamerica.com/) *(Jan 2022 - May 2024)*
-  - Engineered high-throughput RESTful API platform using Java 11, Spring Boot, and Spring Cloud Gateway serving millions of banking users.
-  - Architected distributed transaction management using the Saga pattern and Spring State Machine.
-- **Java Full Stack Developer** @ [Henry Ford Health](https://www.henryford.com/) *(Jan 2020 - Dec 2021)*
-  - Built and enhanced enterprise healthcare platforms, delivering scalable Java microservices.
-- **Software Engineer Intern** @ [Henry Ford Health](https://www.henryford.com/) *(May 2019 - Dec 2019)*
-  - Developed RESTful API endpoints for patient appointment scheduling and medication reminders.
+- **Senior Java Full Stack Developer** @ [Morgan Stanley](https://www.morganstanley.com/) *(Jun 2024 - Present)*
+  - Developed Spring Boot/Spring MVC microservices for Wealth Management and Morgan Stanley at Work platforms.
+  - Built Kafka pipelines for real-time transaction monitoring and wealth management event processing.
+- **Senior Java Full Stack Developer** @ [BNY Mellon](https://www.bnymellon.com/) *(Jan 2022 - May 2024)*
+  - Engineered RESTful API platforms and distributed caching layers for Pershing NetX360+.
+  - Architected Kafka-based Saga choreography for financial transaction workflows.
+- **Java Full Stack Developer** @ [Delta Dental](https://www.deltadental.com/) *(Jan 2020 - Dec 2021)*
+  - Built RESTful APIs and Kafka-driven microservices for healthcare claims and benefits administration.
+- **Software Engineer Intern** @ [Delta Dental](https://www.deltadental.com/) *(May 2019 - Dec 2019)*
+  - Developed RESTful API endpoints for healthcare claims submission and member eligibility.
 - **Junior Java Developer** @ Value Momentum (GEICO) *(Jul 2016 - Jul 2018)*
   - Built and enhanced enterprise insurance web applications using Guidewire PolicyCenter and ClaimCenter.
 
