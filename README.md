@@ -85,11 +85,9 @@
 ### 📊 GitHub Activity & Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=COutSatish&theme=dark&hide_border=false&hide=issues,prs,stars&show_icons=true&v=1" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=COutSatish&theme=dark&hide_border=false&v=1" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COutSatish&theme=dark&hide_border=false&layout=compact&v=1" alt="Top Langs" />
 </div>
 
 <br>
