@@ -37,7 +37,7 @@
 ### 🌐 Socials:
 <p align="left">
   <a href="https://linkedin.com/in/satishpin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:satishs.tech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-%23D14836.svg?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:satishs.job@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-%23D14836.svg?logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
